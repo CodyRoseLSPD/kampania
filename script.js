@@ -43,7 +43,11 @@ Jest człowiekiem, który potrafi rozwiązywać problemy szybko i spokojnie. Zac
         name: "Holly Anderson",
         role: "Lieutenant I",
         photo: "niewazne.png",
-        desc: `jeszcze nic`
+        desc: `Holly Anderson to bardzo utalentowana Pani Officer, która posiada rozległą wiedzę i doświadczenie. Jej umiejętności i profesjonalizm sprawiają, że w departamencie nazywana jest „Panią Detektyw”, ponieważ potrafi trzymać całe Detective Bureau w pionie i dba, aby wszystko działało sprawnie.
+
+Holly jest nie tylko skuteczna w pracy, ale również bardzo miła i sympatyczna. Potrafi nawiązać dobry kontakt z każdym, a jej pozytywna energia sprawia, że współpraca z nią to przyjemność. Dodatkowo, jest osobą elegancką i piękną, co tylko podkreśla jej wyjątkową osobowość.
+
+To Officerka, która łączy profesjonalizm z ciepłem i empatią, a dzięki temu jest nieocenionym wsparciem dla całego zespołu.`
     },
     "marek": {
         name: "Mark Clarkson",
@@ -93,3 +97,4 @@ document.querySelectorAll(".biuro-card").forEach(card => {
 modalCloseBtn.addEventListener("click", () => {
     modalOverlay.style.display = "none";
 });
+
