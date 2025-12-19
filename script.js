@@ -1,4 +1,4 @@
-document.getElementById("scrollDown").addEventListener("click", () => {
+    document.getElementById("scrollDown").addEventListener("click", () => {
     document.getElementById("biuro-szefa").scrollIntoView({
         behavior: "smooth"
     });
@@ -32,7 +32,7 @@ Jako kandydat na Szefa Policji chcę wprowadzać jasne zasady, wspierać cały z
     "jaca": {
         name: "Jack Shovel",
         role: "Assistant Chief Of Police",
-        photo: "jaca.png",
+        photo: "jack.png",
         desc: `Jack Shovel to Sergeant z dużym doświadczeniem, który od lat pracuje w Departamencie. Prywatnie oraz służbowo również się długo znamy. Był kiedyś Kapitanem Field Training Division i do dziś trzyma pieczę nad tą jednostką. Dba o to, aby do służby trafiali odpowiedni ludzie, czyli tacy, którzy naprawdę pasują do pracy w policji i potrafią działać w zespole.
 
 Jack świetnie zna procedury oraz sprawy prawne. Trudno go zagiąć, bo zawsze jest przygotowany i dokładnie wie, jakie zasady obowiązują w każdej sytuacji. Dzięki temu często jest osobą, do której inni przychodzą po radę.
@@ -42,7 +42,7 @@ Jest człowiekiem, który potrafi rozwiązywać problemy szybko i spokojnie. Zac
     "holly": {
         name: "Holly Anderson",
         role: "Lieutenant I",
-        photo: "niewazne.png",
+        photo: "holly.png",
         desc: `Holly Anderson to bardzo utalentowana Pani Officer, która posiada rozległą wiedzę i doświadczenie. Jej umiejętności i profesjonalizm sprawiają, że w departamencie nazywana jest „Panią Detektyw”, ponieważ potrafi trzymać całe Detective Bureau w pionie i dba, aby wszystko działało sprawnie.
 
 Holly jest nie tylko skuteczna w pracy, ale również bardzo miła i sympatyczna. Potrafi nawiązać dobry kontakt z każdym, a jej pozytywna energia sprawia, że współpraca z nią to przyjemność. Dodatkowo, jest osobą elegancką i piękną, co tylko podkreśla jej wyjątkową osobowość.
@@ -63,7 +63,7 @@ To Officer, który idealnie nadaje się do prowadzenia zespołów i koordynowani
     "matthew": {
         name: "Matthew Rose-Harrington",
         role: "Deputy Chief Of Police",
-        photo: "matthew.png",
+        photo: "matthew2.png",
         desc: `Matthew Rose-Harrington nie ma jeszcze tak długiego stażu jak Ja czy Jack, ale mimo krótszego doświadczenia szybko udowodnił, że jest wyjątkowym Officerem. Jest osobą otwartą, miłą i bardzo cierpliwą. Zawsze wie, jak podejść do drugiego człowieka i z której strony z nim rozmawiać, dzięki czemu potrafi spokojnie i profesjonalnie rozwiązywać różne sytuacje.
 
 Znamy się prywatnie, ponieważ poznałem go, gdy przechodził trudny moment w swoim życiu. Z czasem się zaprzyjaźniliśmy, a pracując razem, widziałem, jak pod moją wodzą wyrasta na mądrego, odpowiedzialnego i naprawdę dobrego Officera. W swojej karierze był również Detektywem oraz Sierżantem jednostki detektywistycznej, co dało mu duże doświadczenie w sprawach dochodzeniowych. Można powiedzieć, że w swojej pracy jest prawie nie do zastąpienia.
@@ -97,4 +97,3 @@ document.querySelectorAll(".biuro-card").forEach(card => {
 modalCloseBtn.addEventListener("click", () => {
     modalOverlay.style.display = "none";
 });
-
