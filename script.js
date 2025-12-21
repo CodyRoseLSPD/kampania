@@ -21,7 +21,7 @@ const profiles = {
     "cody": {
         name: "Cody Rose",
         role: "Chief Of Police",
-        photo: "images/3.png",
+        photo: "3.png",
         desc: `Nazywam się Cody Rose. Od wielu lat służę w LSPD i bardzo dobrze znam tę pracę. W swojej karierze pracowałem w różnych jednostkach, także specjalnych, dzięki czemu zdobyłem duże doświadczenie w trudnych sytuacjach i ważnych decyzjach. Miałem też okazję pracować w Biurze Szefa na innych stacjach, więc wiem, jak wygląda zarządzanie i odpowiedzialność na wysokim stanowisku.
 
 Lubię zwierzęta i zawsze traktuję je z szacunkiem. Uważam, że pokazuje to, jaki jestem z natury, tzn. spokojny, otwarty i życzliwy. Zawsze staram się stworzyć przyjazną atmosferę w pracy. Każdego wysłucham, niezależnie od stopnia czy problemu, bo wierzę, że dobra komunikacja jest kluczem do współpracy.
@@ -32,7 +32,7 @@ Jako kandydat na Szefa Policji chcę wprowadzać jasne zasady, wspierać cały z
     "jaca": {
         name: "Jack Shovel",
         role: "Assistant Chief Of Police",
-        photo: "images/jack.png",
+        photo: "jack.png",
         desc: `Jack Shovel to Sergeant z dużym doświadczeniem, który od lat pracuje w Departamencie. Prywatnie oraz służbowo również się długo znamy. Był kiedyś Kapitanem Field Training Division i do dziś trzyma pieczę nad tą jednostką. Dba o to, aby do służby trafiali odpowiedni ludzie, czyli tacy, którzy naprawdę pasują do pracy w policji i potrafią działać w zespole.
 
 Jack świetnie zna procedury oraz sprawy prawne. Trudno go zagiąć, bo zawsze jest przygotowany i dokładnie wie, jakie zasady obowiązują w każdej sytuacji. Dzięki temu często jest osobą, do której inni przychodzą po radę.
@@ -42,7 +42,7 @@ Jest człowiekiem, który potrafi rozwiązywać problemy szybko i spokojnie. Zac
     "holly": {
         name: "Holly Anderson",
         role: "Lieutenant I",
-        photo: "images/holly.png",
+        photo: "holly.png",
         desc: `Holly Anderson to bardzo utalentowana Pani Officer, która posiada rozległą wiedzę i doświadczenie. Jej umiejętności i profesjonalizm sprawiają, że w departamencie nazywana jest „Panią Detektyw”, ponieważ potrafi trzymać całe Detective Bureau w pionie i dba, aby wszystko działało sprawnie.
 
 Holly jest nie tylko skuteczna w pracy, ale również bardzo miła i sympatyczna. Potrafi nawiązać dobry kontakt z każdym, a jej pozytywna energia sprawia, że współpraca z nią to przyjemność. Dodatkowo, jest osobą elegancką i piękną, co tylko podkreśla jej wyjątkową osobowość.
@@ -52,7 +52,7 @@ To Officerka, która łączy profesjonalizm z ciepłem i empatią, a dzięki tem
     "marek": {
         name: "Mark Clarkson",
         role: "Captain I",
-        photo: "images/1.png",
+        photo: "1.png",
         desc: `Mark Clarkson to officer z długim stażem, który przez lata zdobył ogromne doświadczenie w pracy w terenie i w kierowaniu zespołem. Ma naturalny talent do zarządzania ludźmi i potrafi wydawać jasne polecenia, utrzymać porządek i zadbać o to, aby każdy wiedział, co ma robić.
 
 Jest pewny siebie, zdecydowany i potrafi działać pod presją, dlatego świetnie odnajduje się w sytuacjach, które wymagają szybkiej reakcji i dobrej organizacji. Mark zawsze stawia na skuteczność, ale jednocześnie dba o to, by jego ludzie czuli się wspierani i wiedzieli, że mogą na niego liczyć.
@@ -63,7 +63,7 @@ To Officer, który idealnie nadaje się do prowadzenia zespołów i koordynowani
     "matthew": {
         name: "Matthew Rose-Harrington",
         role: "Deputy Chief Of Police",
-        photo: "images/matthew2.png",
+        photo: "matthew2.png",
         desc: `Matthew Rose-Harrington nie ma jeszcze tak długiego stażu jak Ja czy Jack, ale mimo krótszego doświadczenia szybko udowodnił, że jest wyjątkowym Officerem. Jest osobą otwartą, miłą i bardzo cierpliwą. Zawsze wie, jak podejść do drugiego człowieka i z której strony z nim rozmawiać, dzięki czemu potrafi spokojnie i profesjonalnie rozwiązywać różne sytuacje.
 
 Znamy się prywatnie, ponieważ poznałem go, gdy przechodził trudny moment w swoim życiu. Z czasem się zaprzyjaźniliśmy, a pracując razem, widziałem, jak pod moją wodzą wyrasta na mądrego, odpowiedzialnego i naprawdę dobrego Officera. W swojej karierze był również Detektywem oraz Sierżantem jednostki detektywistycznej, co dało mu duże doświadczenie w sprawach dochodzeniowych. Można powiedzieć, że w swojej pracy jest prawie nie do zastąpienia.
