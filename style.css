@@ -47,6 +47,7 @@
     z-index: 1;
     width: 100%;
     height: 100%;
+    cursor: zoom-in;
     object-fit: cover;
     border-radius: 25px;
     transition: transform 0.4s ease;
@@ -194,6 +195,7 @@ body {
   position: absolute;
   bottom: 20px;
   left: 50%;
+  margin-bottom: 10px;
   transform: translateX(-50%);
   font-size: 30px;  
   color: #61bffd;           
@@ -487,36 +489,36 @@ line-height: 1.5;
 }
 
 .modal-name {
-    font-size: 4rem;
+    font-size: 3rem;
     margin: 0;
     margin-bottom: 10px;
     font-weight: 700;
 }
 
 .modal-role {
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     margin: 0 0 30px 0;
     font-weight: 300;
     opacity: 0.8;
 }
 
 .modal-description {
-    font-size: 1.35rem;
+    font-size: 1.1rem;
     line-height: 1.7;
     margin-top: 10px;
     white-space: pre-line;
 }
 
 .modal-right {
-    width: 520px;
+    width: 320px;
     position: relative;
     display: flex;
     justify-content: center;
 }
 
 .modal-photo {
-    width: 480px;
-    height: 620px;
+    width: 290px;
+    height: 400px;
     border-radius: 25px;
     object-fit: cover;
     object-position: center;
@@ -526,7 +528,7 @@ line-height: 1.5;
 .modal-close {
     position: absolute;
     top: -8px;
-    right: -8px;
+    right: -12px;
     margin-right: -10px;
     font-size: 36px;
     background: none;
