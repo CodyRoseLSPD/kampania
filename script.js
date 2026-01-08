@@ -31,7 +31,7 @@ Jako kandydat na Szefa Policji chcę wprowadzać jasne zasady, wspierać cały z
     },
     "jaca": {
         name: "Jack Shovel",
-        role: "Assistant Chief Of Police",
+        role: "Deputy Chief Of Police",
         photo: "jack.png",
         desc: `Jack Shovel to Sergeant z dużym doświadczeniem, który od lat pracuje w Departamencie. Prywatnie oraz służbowo również się długo znamy. Był kiedyś Kapitanem Field Training Division i do dziś trzyma pieczę nad tą jednostką. Dba o to, aby do służby trafiali odpowiedni ludzie, czyli tacy, którzy naprawdę pasują do pracy w policji i potrafią działać w zespole.
 
@@ -39,36 +39,36 @@ Jack świetnie zna procedury oraz sprawy prawne. Trudno go zagiąć, bo zawsze j
 
 Jest człowiekiem, który potrafi rozwiązywać problemy szybko i spokojnie. Zachowuje chłodną głowę, umie ocenić sytuację i znaleźć najlepsze wyjście. To ktoś, na kim zawsze można polegać zarówno w codziennej pracy, jak i w trudnych momentach.`
     },
-    "holly": {
-        name: "Holly Anderson",
-        role: "Lieutenant I",
-        photo: "holly.png",
-        desc: `Holly Anderson to bardzo utalentowana Pani Officer, która posiada rozległą wiedzę i doświadczenie. Jej umiejętności i profesjonalizm sprawiają, że w departamencie nazywana jest „Panią Detektyw”, ponieważ potrafi trzymać całe Detective Bureau w pionie i dba, aby wszystko działało sprawnie.
-
-Holly jest nie tylko skuteczna w pracy, ale również bardzo miła i sympatyczna. Potrafi nawiązać dobry kontakt z każdym, a jej pozytywna energia sprawia, że współpraca z nią to przyjemność. Dodatkowo, jest osobą elegancką i piękną, co tylko podkreśla jej wyjątkową osobowość.
-
-To Officerka, która łączy profesjonalizm z ciepłem i empatią, a dzięki temu jest nieocenionym wsparciem dla całego zespołu.`
-    },
-    "marek": {
-        name: "Mark Clarkson",
+    "jimmy": {
+        name: "Jimmy Walker",
         role: "Captain I",
-        photo: "1.png",
-        desc: `Mark Clarkson to officer z długim stażem, który przez lata zdobył ogromne doświadczenie w pracy w terenie i w kierowaniu zespołem. Ma naturalny talent do zarządzania ludźmi i potrafi wydawać jasne polecenia, utrzymać porządek i zadbać o to, aby każdy wiedział, co ma robić.
+        photo: "niewazne.png",
+        desc: `Jimmy Walker to Officer z dużym doświadczeniem, który od lat konsekwentnie buduje swoją pozycję w strukturach Los Santos Police Department. Jest osobą znaną z zaangażowania w służbę, odpowiedzialnego podejścia do obowiązków oraz realnego wpływu na funkcjonowanie jednostki w codziennej pracy.
 
-Jest pewny siebie, zdecydowany i potrafi działać pod presją, dlatego świetnie odnajduje się w sytuacjach, które wymagają szybkiej reakcji i dobrej organizacji. Mark zawsze stawia na skuteczność, ale jednocześnie dba o to, by jego ludzie czuli się wspierani i wiedzieli, że mogą na niego liczyć.
+Jimmy doskonale odnajduje się zarówno w działaniach patrolowych, jak i w pracy zespołowej. Zna procedury, potrafi je stosować w praktyce i przekazywać wiedzę innym funkcjonariuszom. Często pełni rolę osoby wspierającej młodszych oficerów cierpliwie tłumaczy, doradza i pomaga odnaleźć się w realiach służby.
 
-To Officer, który idealnie nadaje się do prowadzenia zespołów i koordynowania działań, a nawet można powiedzieć, że jest do tego po prostu stworzony.`
+Jest spokojny, opanowany i potrafi zachować zimną krew w stresujących sytuacjach. Zamiast eskalacji stawia na rozmowę, analizę sytuacji i rozsądne rozwiązania. Dzięki temu cieszy się zaufaniem zarówno przełożonych, jak i współpracowników.`
+    },
+    "foster": {
+        name: "Drake Foster",
+        role: "Assistant Chief Of Police",
+        photo: "foster.png",
+        desc: `Drake Foster to doświadczony Officer, który od lat związany jest z pracą w strukturach organów ścigania. Swoje kompetencje w zakresie zarządzania i dowodzenia potwierdził, pełniąc wcześniej stanowisko Deputy Commander of Blaine County Sheriff’s Office na innej stacji. Funkcja ta wymagała nie tylko doskonałej organizacji pracy, ale również umiejętności podejmowania trudnych decyzji i odpowiedzialności za ludzi.
+
+Drake bardzo dobrze zna realia służby zarówno od strony operacyjnej, jak i dowódczej. Potrafi skutecznie koordynować działania jednostek, dbać o klarowny podział obowiązków oraz wspierać swoich podwładnych w codziennej służbie. Stawia na profesjonalizm, przejrzyste procedury i wzajemny szacunek w zespole.
+
+Jest osobą spokojną, opanowaną i nastawioną na dialog. W sytuacjach kryzysowych zachowuje chłodną głowę, analizuje dostępne możliwości i wybiera rozwiązania, które służą zarówno funkcjonariuszom, jak i obywatelom miasta. Wierzy, że dobra policja to taka, która potrafi rozmawiać, mediować i działać z rozsądkiem.`
     },
 
     "matthew": {
         name: "Matthew Rose-Harrington",
-        role: "Deputy Chief Of Police",
+        role: "Captain I",
         photo: "matthew2.png",
         desc: `Matthew Rose-Harrington nie ma jeszcze tak długiego stażu jak Ja czy Jack, ale mimo krótszego doświadczenia szybko udowodnił, że jest wyjątkowym Officerem. Jest osobą otwartą, miłą i bardzo cierpliwą. Zawsze wie, jak podejść do drugiego człowieka i z której strony z nim rozmawiać, dzięki czemu potrafi spokojnie i profesjonalnie rozwiązywać różne sytuacje.
 
 Znamy się prywatnie, ponieważ poznałem go, gdy przechodził trudny moment w swoim życiu. Z czasem się zaprzyjaźniliśmy, a pracując razem, widziałem, jak pod moją wodzą wyrasta na mądrego, odpowiedzialnego i naprawdę dobrego Officera. W swojej karierze był również Detektywem oraz Sierżantem jednostki detektywistycznej, co dało mu duże doświadczenie w sprawach dochodzeniowych. Można powiedzieć, że w swojej pracy jest prawie nie do zastąpienia.
 
-W Biurze Szefa jego rola będzie ważna. Zajmie się dokumentacją, sprawami technicznymi, informacyjnymi itp. innymi rzeczami. To ogrom obowiązków, które wykonuje rzetelnie i dokładnie, odciążając resztę zespołu. Dzięki niemu Biuro będzie działało sprawnie, a Departament może liczyć na solidne wsparcie od zaplecza.`
+Jego rola jako Captain'a będzie ważna. Zajmie się dokumentacją, sprawami technicznymi, informacyjnymi itp. innymi rzeczami. To ogrom obowiązków, które wykonuje rzetelnie i dokładnie, odciążając resztę zespołu. Dzięki niemu Departament będzie działał sprawnie, a Departament może liczyć na solidne wsparcie od zaplecza.`
     }
 };
 
@@ -155,3 +155,4 @@ modal.addEventListener('click', (e) => {
         modal.style.display = 'none';
     }
 });
+
