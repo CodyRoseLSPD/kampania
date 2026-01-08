@@ -232,6 +232,7 @@ body {
     box-shadow: 0 0 30px rgba(0,191,255,0.2);
 }
 
+
 .postulat-card.reverse {
     flex-direction: row-reverse;
 }
@@ -240,6 +241,7 @@ body {
     transform: translateY(-10px) scale(1.05);
     box-shadow: 0 10px 30px rgba(0,191,255,0.2); 
 }
+
 
 .postulat-graphic img {
     width: 220px;
@@ -596,6 +598,7 @@ line-height: 1.5;
     width: 100%;
     text-align: center;
     margin-top: 5px;
+    margin-bottom: 1px;
     font-size: 1.1rem;
     color: #b8e7ff;
     opacity: 0.85;
@@ -727,6 +730,7 @@ text-shadow: 0 0 5px rgba(0,191,255,0.3);
         gap: 20px;
         text-align: center;
     }
+
 
     .postulat-text h2 {
         font-size: 1.7rem;
@@ -1474,3 +1478,4 @@ line-height: 1.5;
 }
 
 }
+
