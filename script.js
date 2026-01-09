@@ -42,7 +42,7 @@ Jest człowiekiem, który potrafi rozwiązywać problemy szybko i spokojnie. Zac
     "jimmy": {
         name: "Jimmy Walker",
         role: "Captain I",
-        photo: "niewazne.png",
+        photo: "jimmy.png",
         desc: `Jimmy Walker to Officer z dużym doświadczeniem, który od lat konsekwentnie buduje swoją pozycję w strukturach Los Santos Police Department. Jest osobą znaną z zaangażowania w służbę, odpowiedzialnego podejścia do obowiązków oraz realnego wpływu na funkcjonowanie jednostki w codziennej pracy.
 
 Jimmy doskonale odnajduje się zarówno w działaniach patrolowych, jak i w pracy zespołowej. Zna procedury, potrafi je stosować w praktyce i przekazywać wiedzę innym funkcjonariuszom. Często pełni rolę osoby wspierającej młodszych oficerów cierpliwie tłumaczy, doradza i pomaga odnaleźć się w realiach służby.
@@ -155,4 +155,5 @@ modal.addEventListener('click', (e) => {
         modal.style.display = 'none';
     }
 });
+
 
